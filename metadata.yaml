@@ -1,0 +1,34 @@
+_repo: Life-of-John-Sterling_1085
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carlyle, Thomas
+    alias: Carlyle, T. (Thomas)
+    birthdate: 1795
+    deathdate: 1881
+    gutenberg_agent_id: '523'
+    url: http://www.gutenberg.org/2009/agents/523
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
+description: Thomas Carlyle undertook this biography of his friend, the British author
+  John Sterling (1806 1844), because he was so dissatisfied with an earlier biography
+  of Sterling by Julius Charles Hare. Sterling was an ordained curate at Hurstmonceux,
+  but retired and began writing. His highest literary achievements were the articles
+  he published in Blackwood's Magazine such as, The Onyx Ring and The Palace of Morgana.
+  Carlyle's biography has since become a classic and is studied more as a work of
+  Carlyle than the life of Sterling.
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sterling, John, 1806-1844'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'CT'
+- GITenberg
+title: Life of John Sterling
+url: http://www.gutenberg.org/ebooks/1085
