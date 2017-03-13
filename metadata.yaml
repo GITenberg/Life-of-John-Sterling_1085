@@ -1,5 +1,8 @@
 _repo: Life-of-John-Sterling_1085
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carlyle, Thomas
@@ -16,6 +19,8 @@ description: Thomas Carlyle undertook this biography of his friend, the British 
   he published in Blackwood's Magazine such as, The Onyx Ring and The Palace of Morgana.
   Carlyle's biography has since become a classic and is studied more as a work of
   Carlyle than the life of Sterling.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1085#Life-of-John-Sterling
 gutenberg_issued: '1997-10-01'
 gutenberg_type: Text
 identifiers:
